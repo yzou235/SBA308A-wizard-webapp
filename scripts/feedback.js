@@ -1,4 +1,3 @@
-// feedback.js
 import axios from 'https://cdn.skypack.dev/axios';
 
 export const showFeedbackForm = (content) => {
