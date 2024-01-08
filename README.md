@@ -10,8 +10,7 @@ Welcome to ⚡🤓🪄 **Wizard World Random Generator** 🏰🧙‍♂️🦁! 
   - [Random Elixir Generation](#random-elixir-generation)
   - [Submit Your Feedback](#submit-your-feedback)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Preview](#preview)
 
 ## Installation
 
@@ -42,3 +41,9 @@ The codebase is then organized into three main modules:
 - **`elixirs.js`**: Contains the functions to fetch and display random elixirs using the `axios` library for HTTP GET requests.
 
 - **`feedback.js`**: Handles the submission of user feedback using the `axios` library for HTTP POST requests.
+
+## Preview
+
+![Random Spell Preview](./images/preview1.png)
+![Random Spell Preview](./images/preview2.png)
+![Random Spell Preview](./images/preview3.png)
